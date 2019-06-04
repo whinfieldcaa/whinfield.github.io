@@ -7,14 +7,6 @@
 	showPagingText="true"
 
 >
-  <image imageURL="images/AR035.jpg"
-	thumbURL="thumbs/AR035.jpg"
-	linkURL="images/AR035.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\AddisonRd\reduced\AR035.JPG">
-    <title><![CDATA[AR035]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
   <image imageURL="images/AR012A.jpg"
 	thumbURL="thumbs/AR012A.jpg"
 	linkURL="images/AR012A.jpg"
@@ -151,12 +143,28 @@
     <title><![CDATA[AR024]]></title>
     <caption><![CDATA[]]></caption>
   </image>
+  <image imageURL="images/AR025.jpg"
+	thumbURL="thumbs/AR025.jpg"
+	linkURL="images/AR025.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\AddisonRd\reduced\AR025.JPG">
+    <title><![CDATA[AR025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/AR026A.jpg"
 	thumbURL="thumbs/AR026A.jpg"
 	linkURL="images/AR026A.jpg"
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\AddisonRd\reduced\AR026A.JPG">
     <title><![CDATA[AR026A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/AR026B.jpg"
+	thumbURL="thumbs/AR026B.jpg"
+	linkURL="images/AR026B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\AddisonRd\reduced\AR026B.JPG">
+    <title><![CDATA[AR026B]]></title>
     <caption><![CDATA[]]></caption>
   </image>
   <image imageURL="images/AR027.jpg"
@@ -221,6 +229,14 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\AddisonRd\reduced\AR034.JPG">
     <title><![CDATA[AR034]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/AR035.jpg"
+	thumbURL="thumbs/AR035.jpg"
+	linkURL="images/AR035.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\AddisonRd\reduced\AR035.JPG">
+    <title><![CDATA[AR035]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
