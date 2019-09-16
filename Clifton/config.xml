@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Clifton Road"
+
+>
+  <image imageURL="images/C001.jpg"
+	thumbURL="thumbs/C001.jpg"
+	linkURL="images/C001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C001.jpg">
+    <title><![CDATA[C001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C002.jpg"
+	thumbURL="thumbs/C002.jpg"
+	linkURL="images/C002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C002.jpg">
+    <title><![CDATA[C002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C003.jpg"
+	thumbURL="thumbs/C003.jpg"
+	linkURL="images/C003.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C003.jpg">
+    <title><![CDATA[C003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C004.jpg"
+	thumbURL="thumbs/C004.jpg"
+	linkURL="images/C004.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C004.jpg">
+    <title><![CDATA[C004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C005.jpg"
+	thumbURL="thumbs/C005.jpg"
+	linkURL="images/C005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C005.jpg">
+    <title><![CDATA[C005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C006.jpg"
+	thumbURL="thumbs/C006.jpg"
+	linkURL="images/C006.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C006.jpg">
+    <title><![CDATA[C006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C007.jpg"
+	thumbURL="thumbs/C007.jpg"
+	linkURL="images/C007.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C007.jpg">
+    <title><![CDATA[C007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C008A.jpg"
+	thumbURL="thumbs/C008A.jpg"
+	linkURL="images/C008A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C008A.jpg">
+    <title><![CDATA[C008A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C009.jpg"
+	thumbURL="thumbs/C009.jpg"
+	linkURL="images/C009.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C009.jpg">
+    <title><![CDATA[C009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C010.jpg"
+	thumbURL="thumbs/C010.jpg"
+	linkURL="images/C010.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C010.jpg">
+    <title><![CDATA[C010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C011.jpg"
+	thumbURL="thumbs/C011.jpg"
+	linkURL="images/C011.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C011.jpg">
+    <title><![CDATA[C011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C012A.jpg"
+	thumbURL="thumbs/C012A.jpg"
+	linkURL="images/C012A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C012A.jpg">
+    <title><![CDATA[C012A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C012B.jpg"
+	thumbURL="thumbs/C012B.jpg"
+	linkURL="images/C012B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C012B.jpg">
+    <title><![CDATA[C012B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C013.jpg"
+	thumbURL="thumbs/C013.jpg"
+	linkURL="images/C013.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C013.jpg">
+    <title><![CDATA[C013]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C017.jpg"
+	thumbURL="thumbs/C017.jpg"
+	linkURL="images/C017.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C017.jpg">
+    <title><![CDATA[C017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C018.jpg"
+	thumbURL="thumbs/C018.jpg"
+	linkURL="images/C018.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C018.jpg">
+    <title><![CDATA[C018]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C019.jpg"
+	thumbURL="thumbs/C019.jpg"
+	linkURL="images/C019.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C019.jpg">
+    <title><![CDATA[C019]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C020.jpg"
+	thumbURL="thumbs/C020.jpg"
+	linkURL="images/C020.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C020.jpg">
+    <title><![CDATA[C020]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C021.jpg"
+	thumbURL="thumbs/C021.jpg"
+	linkURL="images/C021.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C021.jpg">
+    <title><![CDATA[C021]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C022A.jpg"
+	thumbURL="thumbs/C022A.jpg"
+	linkURL="images/C022A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C022A.jpg">
+    <title><![CDATA[C022A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C022B.jpg"
+	thumbURL="thumbs/C022B.jpg"
+	linkURL="images/C022B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C022B.jpg">
+    <title><![CDATA[C022B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C023.jpg"
+	thumbURL="thumbs/C023.jpg"
+	linkURL="images/C023.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C023.jpg">
+    <title><![CDATA[C023]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C024.jpg"
+	thumbURL="thumbs/C024.jpg"
+	linkURL="images/C024.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C024.jpg">
+    <title><![CDATA[C024]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C025.jpg"
+	thumbURL="thumbs/C025.jpg"
+	linkURL="images/C025.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C025.jpg">
+    <title><![CDATA[C025]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C026.jpg"
+	thumbURL="thumbs/C026.jpg"
+	linkURL="images/C026.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C026.jpg">
+    <title><![CDATA[C026]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C027.jpg"
+	thumbURL="thumbs/C027.jpg"
+	linkURL="images/C027.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C027.jpg">
+    <title><![CDATA[C027]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C028A.jpg"
+	thumbURL="thumbs/C028A.jpg"
+	linkURL="images/C028A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C028A.jpg">
+    <title><![CDATA[C028A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C028B.jpg"
+	thumbURL="thumbs/C028B.jpg"
+	linkURL="images/C028B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C028B.jpg">
+    <title><![CDATA[C028B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C029.jpg"
+	thumbURL="thumbs/C029.jpg"
+	linkURL="images/C029.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C029.jpg">
+    <title><![CDATA[C029]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C030.jpg"
+	thumbURL="thumbs/C030.jpg"
+	linkURL="images/C030.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C030.jpg">
+    <title><![CDATA[C030]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C031A.jpg"
+	thumbURL="thumbs/C031A.jpg"
+	linkURL="images/C031A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C031A.jpg">
+    <title><![CDATA[C031A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C031B.jpg"
+	thumbURL="thumbs/C031B.jpg"
+	linkURL="images/C031B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C031B.jpg">
+    <title><![CDATA[C031B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C032.jpg"
+	thumbURL="thumbs/C032.jpg"
+	linkURL="images/C032.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C032.jpg">
+    <title><![CDATA[C032]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C033.jpg"
+	thumbURL="thumbs/C033.jpg"
+	linkURL="images/C033.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C033.jpg">
+    <title><![CDATA[C033]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C034AB.jpg"
+	thumbURL="thumbs/C034AB.jpg"
+	linkURL="images/C034AB.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C034AB.jpg">
+    <title><![CDATA[C034AB]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C035.jpg"
+	thumbURL="thumbs/C035.jpg"
+	linkURL="images/C035.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C035.jpg">
+    <title><![CDATA[C035]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C036.jpg"
+	thumbURL="thumbs/C036.jpg"
+	linkURL="images/C036.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C036.jpg">
+    <title><![CDATA[C036]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C037A.jpg"
+	thumbURL="thumbs/C037A.jpg"
+	linkURL="images/C037A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C037A.jpg">
+    <title><![CDATA[C037A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C037B.jpg"
+	thumbURL="thumbs/C037B.jpg"
+	linkURL="images/C037B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C037B.jpg">
+    <title><![CDATA[C037B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C038.jpg"
+	thumbURL="thumbs/C038.jpg"
+	linkURL="images/C038.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C038.jpg">
+    <title><![CDATA[C038]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C039.jpg"
+	thumbURL="thumbs/C039.jpg"
+	linkURL="images/C039.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C039.jpg">
+    <title><![CDATA[C039]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C040.jpg"
+	thumbURL="thumbs/C040.jpg"
+	linkURL="images/C040.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C040.jpg">
+    <title><![CDATA[C040]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C041.jpg"
+	thumbURL="thumbs/C041.jpg"
+	linkURL="images/C041.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C041.jpg">
+    <title><![CDATA[C041]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C042.jpg"
+	thumbURL="thumbs/C042.jpg"
+	linkURL="images/C042.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C042.jpg">
+    <title><![CDATA[C042]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C043.jpg"
+	thumbURL="thumbs/C043.jpg"
+	linkURL="images/C043.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C043.jpg">
+    <title><![CDATA[C043]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C044.jpg"
+	thumbURL="thumbs/C044.jpg"
+	linkURL="images/C044.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C044.jpg">
+    <title><![CDATA[C044]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C045A.jpg"
+	thumbURL="thumbs/C045A.jpg"
+	linkURL="images/C045A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C045A.jpg">
+    <title><![CDATA[C045A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C045B.jpg"
+	thumbURL="thumbs/C045B.jpg"
+	linkURL="images/C045B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C045B.jpg">
+    <title><![CDATA[C045B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C046.jpg"
+	thumbURL="thumbs/C046.jpg"
+	linkURL="images/C046.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C046.jpg">
+    <title><![CDATA[C046]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C047A.jpg"
+	thumbURL="thumbs/C047A.jpg"
+	linkURL="images/C047A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C047A.jpg">
+    <title><![CDATA[C047A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C047B.jpg"
+	thumbURL="thumbs/C047B.jpg"
+	linkURL="images/C047B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C047B.jpg">
+    <title><![CDATA[C047B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C048.jpg"
+	thumbURL="thumbs/C048.jpg"
+	linkURL="images/C048.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C048.jpg">
+    <title><![CDATA[C048]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C049.jpg"
+	thumbURL="thumbs/C049.jpg"
+	linkURL="images/C049.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C049.jpg">
+    <title><![CDATA[C049]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C050.jpg"
+	thumbURL="thumbs/C050.jpg"
+	linkURL="images/C050.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C050.jpg">
+    <title><![CDATA[C050]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C051.jpg"
+	thumbURL="thumbs/C051.jpg"
+	linkURL="images/C051.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C051.jpg">
+    <title><![CDATA[C051]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C052.jpg"
+	thumbURL="thumbs/C052.jpg"
+	linkURL="images/C052.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C052.jpg">
+    <title><![CDATA[C052]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C053.jpg"
+	thumbURL="thumbs/C053.jpg"
+	linkURL="images/C053.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C053.jpg">
+    <title><![CDATA[C053]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C054A.jpg"
+	thumbURL="thumbs/C054A.jpg"
+	linkURL="images/C054A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C054A.jpg">
+    <title><![CDATA[C054A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C054B.jpg"
+	thumbURL="thumbs/C054B.jpg"
+	linkURL="images/C054B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C054B.jpg">
+    <title><![CDATA[C054B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C055.jpg"
+	thumbURL="thumbs/C055.jpg"
+	linkURL="images/C055.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C055.jpg">
+    <title><![CDATA[C055]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C056.jpg"
+	thumbURL="thumbs/C056.jpg"
+	linkURL="images/C056.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C056.jpg">
+    <title><![CDATA[C056]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C057.jpg"
+	thumbURL="thumbs/C057.jpg"
+	linkURL="images/C057.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C057.jpg">
+    <title><![CDATA[C057]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C058.jpg"
+	thumbURL="thumbs/C058.jpg"
+	linkURL="images/C058.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C058.jpg">
+    <title><![CDATA[C058]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C065.jpg"
+	thumbURL="thumbs/C065.jpg"
+	linkURL="images/C065.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C065.jpg">
+    <title><![CDATA[C065]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C066.jpg"
+	thumbURL="thumbs/C066.jpg"
+	linkURL="images/C066.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C066.jpg">
+    <title><![CDATA[C066]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C067686970.jpg"
+	thumbURL="thumbs/C067686970.jpg"
+	linkURL="images/C067686970.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C067686970.jpg">
+    <title><![CDATA[C067686970]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C071.jpg"
+	thumbURL="thumbs/C071.jpg"
+	linkURL="images/C071.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C071.jpg">
+    <title><![CDATA[C071]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C072.jpg"
+	thumbURL="thumbs/C072.jpg"
+	linkURL="images/C072.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C072.jpg">
+    <title><![CDATA[C072]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C073A.jpg"
+	thumbURL="thumbs/C073A.jpg"
+	linkURL="images/C073A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C073A.jpg">
+    <title><![CDATA[C073A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C073B.jpg"
+	thumbURL="thumbs/C073B.jpg"
+	linkURL="images/C073B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C073B.jpg">
+    <title><![CDATA[C073B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C074.jpg"
+	thumbURL="thumbs/C074.jpg"
+	linkURL="images/C074.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C074.jpg">
+    <title><![CDATA[C074]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C075A.jpg"
+	thumbURL="thumbs/C075A.jpg"
+	linkURL="images/C075A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C075A.jpg">
+    <title><![CDATA[C075A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C075B.jpg"
+	thumbURL="thumbs/C075B.jpg"
+	linkURL="images/C075B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C075B.jpg">
+    <title><![CDATA[C075B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C076A.jpg"
+	thumbURL="thumbs/C076A.jpg"
+	linkURL="images/C076A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C076A.jpg">
+    <title><![CDATA[C076A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C076B.jpg"
+	thumbURL="thumbs/C076B.jpg"
+	linkURL="images/C076B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C076B.jpg">
+    <title><![CDATA[C076B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C078.jpg"
+	thumbURL="thumbs/C078.jpg"
+	linkURL="images/C078.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C078.jpg">
+    <title><![CDATA[C078]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C079A.jpg"
+	thumbURL="thumbs/C079A.jpg"
+	linkURL="images/C079A.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C079A.jpg">
+    <title><![CDATA[C079A]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C079B.jpg"
+	thumbURL="thumbs/C079B.jpg"
+	linkURL="images/C079B.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C079B.jpg">
+    <title><![CDATA[C079B]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C080.jpg"
+	thumbURL="thumbs/C080.jpg"
+	linkURL="images/C080.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C080.jpg">
+    <title><![CDATA[C080]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C081.jpg"
+	thumbURL="thumbs/C081.jpg"
+	linkURL="images/C081.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C081.jpg">
+    <title><![CDATA[C081]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C082.jpg"
+	thumbURL="thumbs/C082.jpg"
+	linkURL="images/C082.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C082.jpg">
+    <title><![CDATA[C082]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C083.jpg"
+	thumbURL="thumbs/C083.jpg"
+	linkURL="images/C083.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C083.jpg">
+    <title><![CDATA[C083]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C085.jpg"
+	thumbURL="thumbs/C085.jpg"
+	linkURL="images/C085.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C085.jpg">
+    <title><![CDATA[C085]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/C086.jpg"
+	thumbURL="thumbs/C086.jpg"
+	linkURL="images/C086.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@allotment2017\@@@Whinfield@@@\PlotInspections\June2019\CliftonRd\Reduced\C086.jpg">
+    <title><![CDATA[C086]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
